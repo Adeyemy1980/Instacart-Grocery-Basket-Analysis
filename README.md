@@ -11,7 +11,7 @@ Link: https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4
 
 # Tools
 
-The project used excel and python. The following libraries were used in python:
+The project used excel and Python and other libraries  used in python:
 Pandas
 Numpy
 Seaborn
