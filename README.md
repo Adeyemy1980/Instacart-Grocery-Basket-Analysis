@@ -10,6 +10,7 @@ Open source data sets 2017 from Instacart
 Link: https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
 
 # Tools
+
 The project used excel and python. The following libraries were used in python:
 Pandas
 Numpy
